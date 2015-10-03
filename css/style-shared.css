@@ -1,0 +1,30 @@
+* {
+	padding: 0;
+	margin: 0;
+}
+body, input {
+	font-family: "Open Sans";
+	color: #808080;
+	text-align: center;
+	font-size: 125%;
+	line-height: 1.5;
+}
+h1, h2 {
+	margin-bottom: 50px;
+	font-weight: normal;
+}
+h1 {
+	font-size: 150%;
+}
+img[src*="wordmark"] {
+	max-width: 250px;
+	margin-top: 25px;
+	margin-bottom: 50px;
+}
+a {
+	color: #000000;
+	text-decoration: none;
+}
+a:hover {
+	text-decoration: underline;
+}
